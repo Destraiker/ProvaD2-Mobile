@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProvaD2"
+    }
+  },
+  "defaultProject": "ProvaD2",
+  "cli": {
+    "analytics": false
+  }
 }
